@@ -1,0 +1,18 @@
+body {
+    background: rgb(170, 74, 74);
+    color: white;
+    margin: 50px;
+    padding: 50px;
+}
+
+table,
+th,
+td {
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+}
